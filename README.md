@@ -1,1 +1,1 @@
-# Prodigy_Plans_API
+# Prodigy Plans API
